@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.part1{
+    text-align: center;
+}
+.part1 > h1{
+    margin-bottom: 20px;
+}
