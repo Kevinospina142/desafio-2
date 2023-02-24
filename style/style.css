@@ -2,9 +2,50 @@
     margin: 0;
     padding: 0;
 }
+/* parte 1 */
 .part1{
     text-align: center;
 }
-.part1 > h1{
+.part1 > h1,h2{
     margin-bottom: 20px;
+}
+.goku{
+    width: 200px;
+}
+.bordeOculto{
+    border: none;
+    margin-left: 40%;
+    width: 20%;
+}
+.bordeVisible{
+    border: 2px solid red;
+    width: 20%;
+}
+#container{
+    margin-left: 40%;
+}
+/* parte 2 */
+.part2{
+    text-align: center;
+    margin: 10px 0 10px 0;
+}
+.container2{
+    display: flex;
+    justify-content: center;
+}
+.container2 > div{
+    width: 100px;
+}
+.gato{
+    width: 100%;
+    border: 2px solid blue;
+}
+.gato2{
+    width: 100%;
+    border: 2px solid blue;
+
+}
+.shrek{
+    width: 100%;
+    border: 2px solid blue;
 }
