@@ -43,9 +43,11 @@
 .gato2{
     width: 100%;
     border: 2px solid blue;
-
 }
 .shrek{
     width: 100%;
     border: 2px solid blue;
+}
+.number{
+    width: 100%;
 }
