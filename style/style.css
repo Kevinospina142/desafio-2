@@ -27,7 +27,7 @@
 /* parte 2 */
 .part2{
     text-align: center;
-    margin: 10px 0 10px 0;
+    margin: 50px 0 10px 0;
 }
 .container2{
     display: flex;
@@ -50,4 +50,17 @@
 }
 .number{
     width: 100%;
+}
+/* parte 3 */
+
+.part3{
+    text-align: center;
+    margin: 50px 0 10px 0;
+}
+.container3{
+    display: flex;
+    justify-content: center;
+}
+.container3 > div{
+    width: 100px;
 }
